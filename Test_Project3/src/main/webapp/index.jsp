@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	<h1>index.jsp - SSH</h1>
 </body>
 </html>
